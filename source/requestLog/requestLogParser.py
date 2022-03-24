@@ -2,7 +2,6 @@ import os
 
 dict_results = {}
 
-
 def logParser(server):
 
     # 파일 읽기
